@@ -1,6 +1,8 @@
 
 # MongoDB NoSQL Support for VS Code
 
+> NOTE: This extension is deprecated. Please use the [Cosmos DB extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb) which supports connecting to local and remote MongoDB databases.
+
 The MongoDB extension makes it easy to work with MongoDB NoSQL databases, collections, and documents. With this extension, you can:
 
 * Connect to local or hosted (e.g. Azure CosmosDB) servers
