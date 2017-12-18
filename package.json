@@ -5,7 +5,7 @@
 	"displayName": "MongoDB",
 	"description": "Create, browse, and update MongoDB NoSQL collections and documents.",
 	"engines": {
-		"vscode": "^1.13.0"
+		"vscode": "^1.19.0"
 	},
 	"galleryBanner": {
 		"color": "#3E8E3A",
