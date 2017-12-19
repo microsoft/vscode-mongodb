@@ -1,11 +1,11 @@
 {
 	"name": "vscode-mongodb",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "ms-vscode-devlab",
-	"displayName": "MongoDB",
-	"description": "Create, browse, and update MongoDB NoSQL collections and documents.",
+	"displayName": "MongoDB [DEPRECATED]",
+	"description": "[DEPRECATED] Create, browse, and update MongoDB NoSQL collections and documents.",
 	"engines": {
-		"vscode": "^1.13.0"
+		"vscode": "^1.19.0"
 	},
 	"galleryBanner": {
 		"color": "#3E8E3A",
